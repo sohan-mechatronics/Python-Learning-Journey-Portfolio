@@ -1,0 +1,36 @@
+📁 RESOURCES FOLDER GUIDE
+
+Purpose:
+This folder contains all supporting files used by Python programs, projects, data analysis, and visualization tasks.
+
+Files Included:
+
+1. student.txt
+   - Used for File Handling practice
+   - Concepts: read(), write(), append(), open(), close()
+
+2. sohan_master_profile.txt
+   - Personal data storage example
+   - Concepts: file creation, reading, writing
+
+3. students.csv
+   - Dataset for Pandas Data Analysis
+   - Concepts: pd.read_csv(), filtering, statistics, data processing
+
+4. student_marks.png
+   - Output image generated from Matplotlib
+   - Concepts: charts, graphs, data visualization
+
+Learning Outcome:
+✓ File Handling
+✓ Data Storage
+✓ CSV Processing
+✓ Pandas Data Analysis
+✓ Data Visualization
+✓ Project Development
+
+Folder Type:
+Supporting Resources Folder
+
+Created By:
+Sohan Kumar

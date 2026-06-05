@@ -1,0 +1,48 @@
+DAY-4 : FOR LOOP & PATTERNS
+
+Topics Covered:
+☑ For Loop
+☑ range() Function
+☑ Counting Programs
+☑ Even Numbers
+☑ Odd Numbers
+☑ Multiplication Tables
+☑ Nested Loops
+☑ Factorial Logic
+☑ Sum Programs
+☑ Number Patterns
+☑ Star Patterns
+☑ Alphabet Patterns
+☑ Rectangle Patterns
+☑ Hollow Rectangle
+
+Programs:
+☑ for_demo.py
+☑ for_counting_1_to_10.py
+☑ for_even_number.py
+☑ for_odd_number.py
+☑ for_reverse_count.py
+☑ for_table.py
+☑ all_tables.py
+☑ for_sum_1_to_10.py
+☑ for_sum_user_number.py
+☑ factorial.py
+☑ star_pattern.py
+☑ reverse_star_pattern.py
+☑ number_pattern.py
+☑ same_number_pattern.py
+☑ number_triangle.py
+☑ alphabet_pattern.py
+☑ alphabet_reverse_pattern.py
+☑ rectangle_pattern.py
+☑ hollow_rectangle.py
+☑ nested_loop_demo.py
+
+DAY STATUS
+
+☑ Theory Completed
+☑ Programs Completed
+☑ Practice Completed
+☑ Revision Completed
+
+Overall Status: ☑ COMPLETED

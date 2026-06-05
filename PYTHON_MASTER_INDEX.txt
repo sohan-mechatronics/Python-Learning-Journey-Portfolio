@@ -1,0 +1,264 @@
+────────────────────────────────────────────────────────────
+                  🐍 PYTHON MASTER INDEX 🐍
+               Python Learning Journey Repository
+────────────────────────────────────────────────────────────
+
+📌 REPOSITORY OVERVIEW
+
+Structured Python Learning Journey
+
+Contents:
+• Notes
+• Programs
+• Practice Questions
+• Mini Projects
+• Resources
+
+────────────────────────────────────────────────────────────
+
+📘 01. PYTHON FUNDAMENTALS
+
+├─ Introduction to Python
+├─ print()
+├─ input()
+├─ Variables
+├─ Data Types
+├─ Type Conversion
+├─ Operators
+├─ Arithmetic Operators
+├─ Comparison Operators
+├─ Logical Operators
+└─ Basic Programs
+
+────────────────────────────────────────────────────────────
+
+🔀 02. DECISION MAKING
+
+├─ if
+├─ if else
+├─ elif
+├─ Nested if
+├─ Ladder if
+├─ Short Hand if
+├─ Logical Conditions
+└─ Decision Based Programs
+
+────────────────────────────────────────────────────────────
+
+🔁 03. WHILE LOOP
+
+├─ While Loop
+├─ Loop Counter
+├─ Infinite Loop
+├─ Number Programs
+├─ Sum Programs
+├─ Reverse Counting
+├─ Multiplication Tables
+└─ Pattern Logic
+
+────────────────────────────────────────────────────────────
+
+⭐ 04. FOR LOOP & PATTERNS
+
+├─ For Loop
+├─ range()
+├─ Nested Loop
+├─ Star Patterns
+├─ Number Patterns
+├─ Alphabet Patterns
+├─ Pyramid Patterns
+└─ Pattern Programs
+
+────────────────────────────────────────────────────────────
+
+📦 05. COLLECTIONS
+
+├─ List
+├─ Tuple
+├─ Set
+├─ Dictionary
+├─ Indexing
+├─ Slicing
+├─ List Methods
+├─ Dictionary Methods
+└─ Collection Programs
+
+────────────────────────────────────────────────────────────
+
+⚙️ 06. FUNCTIONS
+
+├─ User Defined Functions
+├─ Function Calling
+├─ Parameters
+├─ Arguments
+├─ Return Statement
+├─ Default Arguments
+├─ Keyword Arguments
+├─ Variable Length Arguments
+└─ Function Programs
+
+────────────────────────────────────────────────────────────
+
+🔤 07. STRING BASICS
+
+├─ String Creation
+├─ Indexing
+├─ Slicing
+├─ String Length
+├─ Looping Through Strings
+├─ String Methods
+└─ Basic String Programs
+
+────────────────────────────────────────────────────────────
+
+🚀 08. ADVANCED STRING PROGRAMS
+
+├─ Reverse String
+├─ Palindrome Check
+├─ Vowel Counter
+├─ Consonant Counter
+├─ Word Counter
+├─ Character Frequency
+└─ Advanced String Programs
+
+────────────────────────────────────────────────────────────
+
+📂 09. FILE & EXCEPTION HANDLING
+
+├─ File Handling Introduction
+├─ File Read
+├─ File Write
+├─ File Append
+├─ Try
+├─ Except
+├─ Finally
+├─ Error Handling
+└─ File Based Programs
+
+────────────────────────────────────────────────────────────
+
+🏛️ 10. OBJECT ORIENTED PROGRAMMING (OOP)
+
+├─ Class
+├─ Object
+├─ self Keyword
+├─ Constructor
+├─ Instance Variables
+├─ Methods
+├─ Object Creation
+└─ OOP Programs
+
+────────────────────────────────────────────────────────────
+
+📚 11. PYTHON MODULES
+
+├─ Modules
+├─ Import Statement
+├─ Specific Import
+├─ Aliasing
+├─ Built-in Modules
+└─ Module Programs
+
+────────────────────────────────────────────────────────────
+
+📅 12. DATE & TIME PROGRAMMING
+
+├─ Date Module
+├─ Time Module
+├─ Datetime Module
+├─ Current Date
+├─ Current Time
+├─ Formatting
+└─ Date Time Programs
+
+────────────────────────────────────────────────────────────
+
+🧩 13. CUSTOM MODULES
+
+├─ User Defined Modules
+├─ Module Creation
+├─ Import Custom Modules
+├─ Reusability
+└─ Module Projects
+
+────────────────────────────────────────────────────────────
+
+🔢 14. NUMPY FUNDAMENTALS
+
+├─ NumPy Introduction
+├─ Arrays
+├─ Array Creation
+├─ Indexing
+├─ Slicing
+├─ Array Operations
+└─ NumPy Programs
+
+────────────────────────────────────────────────────────────
+
+📊 15. PANDAS DATA ANALYSIS
+
+├─ Pandas Introduction
+├─ CSV Files
+├─ DataFrames
+├─ Series
+├─ Data Cleaning
+├─ Statistics
+└─ Data Analysis Programs
+
+────────────────────────────────────────────────────────────
+
+📈 16. MATPLOTLIB VISUALIZATION
+
+├─ Charts
+├─ Line Graph
+├─ Bar Chart
+├─ Pie Chart
+├─ Image Visualization
+├─ Labels
+└─ Visualization Programs
+
+────────────────────────────────────────────────────────────
+
+🧠 17. ADVANCED NUMPY
+
+├─ Reshape
+├─ Flatten
+├─ Matrix Operations
+├─ Aggregation Functions
+├─ Advanced Array Operations
+└─ NumPy Practice Programs
+
+────────────────────────────────────────────────────────────
+
+🛠️ MINI PROJECTS
+
+✅ Calculator
+✅ ATM System
+✅ Login System
+✅ Guessing Game
+✅ Student Management System
+✅ Multiple Student Record System
+
+────────────────────────────────────────────────────────────
+
+📁 RESOURCES
+
+📄 student.txt
+📄 students.csv
+🖼️ student_marks.png
+📄 sohan_master_profile.txt
+
+────────────────────────────────────────────────────────────
+
+👨‍💻 AUTHOR
+
+Sohan Kumar
+Mechatronics Engineering Student
+
+────────────────────────────────────────────────────────────
+
+🏆 REPOSITORY
+
+Python Learning Journey
+
+────────────────────────────────────────────────────────────

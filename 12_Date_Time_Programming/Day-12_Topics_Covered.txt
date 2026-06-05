@@ -1,0 +1,69 @@
+DAY-12 : DATE & TIME PROGRAMMING
+
+Topics Covered:
+☑ Date & Time Module Introduction
+☑ datetime Module
+☑ Current Date
+☑ Current Time
+☑ Current Date & Time
+☑ Date Formatting
+☑ Time Formatting
+☑ strftime()
+☑ Format Codes
+☑ %d (Day)
+☑ %m (Month)
+☑ %Y (Year)
+☑ %H (Hour)
+☑ %M (Minute)
+☑ %S (Second)
+
+☑ Current Year
+☑ Current Month
+☑ Current Day
+
+☑ Digital Clock Program
+☑ Age Calculator
+
+☑ Date & Time Applications
+☑ Attendance Systems
+☑ Employee Management Systems
+☑ Login History Tracking
+☑ Student Management Systems
+☑ Robotics Logging
+☑ Industrial Automation Logging
+
+☑ Real World Date-Time Operations
+☑ Date Extraction
+☑ Time Extraction
+☑ Formatting Output
+☑ Time-Based Calculations
+
+Programs:
+☑ datetime_demo.py
+
+☑ current_date.py
+
+☑ current_time.py
+
+☑ date_format_demo.py
+
+☑ datetime_format.py
+
+☑ digital_clock.py
+
+☑ current_year.py
+
+☑ current_month.py
+
+☑ current_day.py
+
+☑ age_calculator.py
+
+DAY STATUS
+
+☑ Theory Completed
+☑ Programs Completed
+☑ Practice Completed
+☑ Revision Completed
+
+Overall Status: ☑ COMPLETED

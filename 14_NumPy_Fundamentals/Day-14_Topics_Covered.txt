@@ -1,0 +1,98 @@
+DAY-14 : NUMPY FUNDAMENTALS
+
+Topics Covered:
+☑ NumPy Introduction
+☑ Numerical Python
+☑ NumPy Installation
+☑ pip install numpy
+
+☑ Import NumPy
+☑ import numpy as np
+☑ Alias Concept
+
+☑ Array Creation
+☑ NumPy Arrays
+☑ 1D Arrays
+
+☑ Array Indexing
+☑ Positive Indexing
+☑ Element Access
+
+☑ Array Operations
+☑ Addition
+☑ Subtraction
+☑ Multiplication
+☑ Division
+
+☑ Array Statistics
+☑ np.sum()
+☑ np.mean()
+☑ np.max()
+☑ np.min()
+
+☑ Array Slicing
+☑ Start-End Slicing
+☑ Partial Array Extraction
+
+☑ Matrix Creation
+☑ 2D Arrays
+☑ Matrix Representation
+
+☑ Matrix Indexing
+☑ Row Access
+☑ Column Access
+☑ Element Access
+
+☑ Shape
+☑ matrix.shape
+☑ Rows & Columns
+
+☑ Size
+☑ matrix.size
+☑ Total Elements
+
+☑ NDIM
+☑ Number of Dimensions
+
+☑ Reshape
+☑ reshape()
+☑ Data Rearrangement
+
+☑ Real World Applications
+☑ Data Science
+☑ Machine Learning
+☑ Artificial Intelligence
+☑ Robotics
+☑ Engineering Computation
+
+Programs:
+☑ numpy_demo.py
+
+☑ array_index_demo.py
+
+☑ array_operation_demo.py
+
+☑ array_statistics.py
+
+☑ array_slicing.py
+
+☑ matrix_demo.py
+
+☑ matrix_indexing.py
+
+☑ matrix_shape.py
+
+☑ matrix_size.py
+
+☑ matrix_ndim.py
+
+☑ reshape_demo.py
+
+DAY STATUS
+
+☑ Theory Completed
+☑ Programs Completed
+☑ Practice Completed
+☑ Revision Completed
+
+Overall Status: ☑ COMPLETED

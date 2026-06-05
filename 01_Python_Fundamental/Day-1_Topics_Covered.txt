@@ -1,0 +1,20 @@
+DAY-1 : PYTHON FUNDAMENTALS
+
+Topics:
+- Print Function
+- Input Function
+- Variables
+- Data Types
+- Operators
+- User Input Programs
+- Calculator Programs
+
+Programs:
+- employee.py
+- operator_demo.py
+- calculator.py
+- simple_calculator.py
+- all_calculator.py
+- user_addition.py
+
+Status: Completed ✅

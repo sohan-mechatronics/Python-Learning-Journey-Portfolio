@@ -1,0 +1,118 @@
+DAY-15 : PANDAS DATA ANALYSIS
+
+Topics Covered:
+☑ Pandas Introduction
+☑ Data Analysis Basics
+☑ Pandas Installation
+
+☑ Import Pandas
+☑ import pandas as pd
+☑ Alias Concept
+
+☑ DataFrame Introduction
+☑ Table Structure
+☑ Rows and Columns
+
+☑ DataFrame Creation
+☑ Dictionary to DataFrame
+☑ Structured Data Storage
+
+☑ DataFrame Display
+☑ print(df)
+
+☑ Single Column Selection
+☑ df["ColumnName"]
+
+☑ Multiple Column Selection
+☑ df[["Column1","Column2"]]
+
+☑ iloc[]
+☑ Integer Location
+☑ Row Access by Position
+
+☑ loc[]
+☑ Label Location
+☑ Row Access by Label
+
+☑ Custom Index
+☑ User Defined Labels
+
+☑ DataFrame Information
+☑ df.info()
+
+☑ Head Function
+☑ df.head()
+
+☑ Tail Function
+☑ df.tail()
+
+☑ CSV Files
+☑ CSV Introduction
+☑ Reading CSV Files
+
+☑ pd.read_csv()
+
+☑ Data Filtering
+☑ Conditional Filtering
+☑ Row Selection
+
+☑ Data Sorting
+☑ sort_values()
+☑ Ascending Order
+☑ Descending Order
+
+☑ Statistical Summary
+☑ describe()
+☑ Mean
+☑ Count
+☑ Min
+☑ Max
+☑ Standard Deviation
+
+☑ Real World Applications
+☑ Excel Data Analysis
+☑ Student Records
+☑ Employee Records
+☑ Data Science
+☑ Machine Learning
+☑ Business Analytics
+
+Programs:
+☑ pandas_demo.py
+
+☑ dataframe_demo.py
+
+☑ column_demo.py
+
+☑ multiple_columns.py
+
+☑ row_iloc_demo.py
+
+☑ row_loc_demo.py
+
+☑ custom_index_demo.py
+
+☑ dataframe_info.py
+
+☑ head_demo.py
+
+☑ tail_demo.py
+
+☑ read_csv_demo.py
+
+☑ filter_demo.py
+
+☑ sort_demo.py
+
+☑ describe_demo.py
+
+☑ students.csv
+
+DAY STATUS
+
+☑ Theory Completed
+☑ Programs Completed
+☑ Practice Completed
+☑ Revision Completed
+
+Overall Status: ☑ COMPLETED

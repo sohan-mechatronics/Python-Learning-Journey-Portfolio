@@ -1,0 +1,52 @@
+DAY-10 : OBJECT ORIENTED PROGRAMMING (OOP)
+
+Topics Covered:
+☑ Object Oriented Programming (OOP) Introduction
+☑ Class
+☑ Object
+☑ Class Blueprint Concept
+☑ Object Creation
+☑ Multiple Objects
+☑ Constructor (__init__)
+☑ self Keyword
+☑ Instance Variables
+☑ Methods
+☑ Data Storage in Objects
+☑ User Input in Objects
+☑ Record Management
+☑ List of Objects
+☑ Student Management System
+
+☑ Real World Applications
+☑ Student Management System
+☑ Employee Management System
+☑ Hospital Management System
+☑ Library Management System
+☑ Robotics Software
+☑ Industrial Automation Software
+
+Programs:
+☑ class_object_demo.py
+
+☑ multiple_objects.py
+
+☑ constructor_demo.py
+
+☑ self_demo.py
+
+☑ student_record.py
+
+☑ multiple_student_record.py
+
+☑ user_input_student_record.py
+
+☑ student_management_system.py
+
+DAY STATUS
+
+☑ Theory Completed
+☑ Programs Completed
+☑ Practice Completed
+☑ Revision Completed
+
+Overall Status: ☑ COMPLETED

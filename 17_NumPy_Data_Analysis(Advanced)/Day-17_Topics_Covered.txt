@@ -1,0 +1,102 @@
+DAY-17 : NUMPY ADVANCED OPERATIONS
+
+Topics Covered:
+☑ NumPy Advanced Concepts
+☑ Practical Data Analysis
+☑ Numerical Computing
+
+☑ Array Mathematical Operations
+☑ Array Addition
+☑ Array Subtraction
+☑ Array Multiplication
+☑ Array Division
+
+☑ Statistical Functions
+☑ np.sum()
+☑ np.mean()
+☑ np.max()
+☑ np.min()
+
+☑ Median
+☑ np.median()
+☑ Middle Value Calculation
+
+☑ Standard Deviation
+☑ np.std()
+☑ Data Spread Analysis
+
+☑ Random Numbers
+☑ np.random.randint()
+☑ Single Random Number
+☑ Multiple Random Numbers
+
+☑ Array Sorting
+☑ np.sort()
+☑ Ascending Order Sorting
+
+☑ Array Searching
+☑ np.where()
+☑ Position Finding
+☑ Index Searching
+
+☑ Unique Values
+☑ np.unique()
+☑ Duplicate Removal
+☑ Data Cleaning
+
+☑ Statistical Data Analysis
+☑ Average Calculation
+☑ Maximum Value Analysis
+☑ Minimum Value Analysis
+☑ Central Tendency
+☑ Data Distribution
+
+☑ Real World Applications
+☑ Data Science
+☑ Machine Learning
+☑ Artificial Intelligence
+☑ Robotics Data Processing
+☑ Engineering Analysis
+☑ Quality Control
+☑ Sensor Data Analysis
+☑ Scientific Computing
+
+Programs:
+☑ math_operations.py
+
+☑ array_addition.py
+
+☑ array_subtraction.py
+
+☑ array_multiplication.py
+
+☑ array_division.py
+
+☑ statistical_functions.py
+
+☑ mean_median_demo.py
+
+☑ standard_deviation_demo.py
+
+☑ random_number_demo.py
+
+☑ random_array_demo.py
+
+☑ sort_demo.py
+
+☑ search_demo.py
+
+☑ unique_values_demo.py
+
+☑ advanced_statistics.py
+
+☑ search_sort_demo.py
+
+DAY STATUS
+
+☑ Theory Completed
+☑ Programs Completed
+☑ Practice Completed
+☑ Revision Completed
+
+Overall Status: ☑ COMPLETED

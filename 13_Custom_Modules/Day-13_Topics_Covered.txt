@@ -1,0 +1,65 @@
+DAY-13 : CUSTOM MODULES (USER DEFINED MODULES)
+
+Topics Covered:
+☑ Module Introduction
+☑ User Defined Modules
+☑ Reusable Code Concept
+☑ Module Creation
+☑ Module Importing
+☑ import Statement
+☑ Module Functions
+
+☑ Direct Function Import
+☑ from module import function
+
+☑ Multiple Function Import
+☑ from module import f1, f2, f3
+
+☑ Alias Import
+☑ import module as alias
+
+☑ Module Organization
+☑ Code Reusability
+☑ Code Maintenance
+☑ Project Structure
+
+☑ Calculator Module Project
+☑ Function Reuse
+☑ Modular Programming
+
+☑ Real World Applications
+☑ Login Module
+☑ Payment Module
+☑ Chat Module
+☑ Notification Module
+☑ Product Module
+☑ Order Module
+
+☑ Software Development Practices
+☑ Better Code Management
+☑ Team Collaboration
+☑ Scalable Programming
+
+Programs:
+☑ mymodule.py
+
+☑ module_main.py
+
+☑ calculator_module.py
+
+☑ calculator_main.py
+
+☑ direct_import_demo.py
+
+☑ multiple_function_import.py
+
+☑ alias_module_demo.py
+
+DAY STATUS
+
+☑ Theory Completed
+☑ Programs Completed
+☑ Practice Completed
+☑ Revision Completed
+
+Overall Status: ☑ COMPLETED

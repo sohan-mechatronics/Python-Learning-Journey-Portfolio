@@ -1,0 +1,170 @@
+MINI PROJECTS - CONCEPTS GUIDE
+
+1. calculator.py
+   Concepts Used:
+
+- print()
+- input()
+- int()/float()
+- Arithmetic Operators (+, -, *, /)
+- if-elif-else
+
+2. simple_calculator.py
+   Concepts Used:
+
+- User Input
+- Operators
+- Conditional Statements
+- Program Flow
+
+3. scientific_calculator.py
+   Concepts Used:
+
+- Functions
+- math module
+- Power Operations
+- Square Root
+- Advanced Mathematical Calculations
+
+4. all_calculator.py
+   Concepts Used:
+
+- Multiple Functions
+- Menu Driven Program
+- Conditional Logic
+- Modular Programming
+
+5. login_system.py
+   Concepts Used:
+
+- Variables
+- String Comparison
+- if-else
+- User Authentication Logic
+
+6. atm.py
+   Concepts Used:
+
+- Variables
+- Arithmetic Operations
+- Conditional Statements
+- Banking Simulation
+
+7. atm_pin.py
+   Concepts Used:
+
+- Password Verification
+- while Loop
+- Conditional Statements
+- Retry Logic
+
+8. guessing_game.py
+   Concepts Used:
+
+- Random Numbers
+- while Loop
+- if-else
+- User Interaction
+
+9. guess_game.py
+   Concepts Used:
+
+- Random Module
+- Looping
+- Conditional Checking
+- Game Logic
+
+10. student_management_system.py
+    Concepts Used:
+
+- Lists
+- Dictionaries
+- Functions
+- CRUD Operations
+- Menu Driven Program
+
+11. multiple_student_record.py
+    Concepts Used:
+
+- Nested Data Structures
+- Lists
+- Dictionaries
+- Loops
+- Record Management
+
+====================================
+
+PYTHON CONCEPT REVISION MAP
+
+Basic Concepts:
+✓ Variables
+✓ Data Types
+✓ Input/Output
+
+Decision Making:
+✓ if
+✓ if-else
+✓ if-elif-else
+
+Loops:
+✓ for Loop
+✓ while Loop
+
+Functions:
+✓ User Defined Functions
+✓ Parameters
+✓ Return Values
+
+Data Structures:
+✓ Lists
+✓ Tuples
+✓ Dictionaries
+
+Strings:
+✓ Indexing
+✓ Slicing
+✓ String Methods
+
+Modules:
+✓ import
+✓ from import
+✓ alias import
+
+OOP:
+✓ Classes
+✓ Objects
+✓ Constructors
+✓ self
+
+Exception Handling:
+✓ try-except
+✓ finally
+
+File Handling:
+✓ Read
+✓ Write
+✓ Append
+
+Libraries:
+✓ NumPy
+✓ Pandas
+✓ Matplotlib
+
+Projects:
+✓ Calculator
+✓ ATM
+✓ Login System
+✓ Guessing Game
+✓ Student Management System
+
+====================================
+
+Goal:
+Every project should be understood by identifying:
+
+1. Problem Statement
+2. Concepts Used
+3. Program Flow
+4. Input
+5. Processing
+6. Output

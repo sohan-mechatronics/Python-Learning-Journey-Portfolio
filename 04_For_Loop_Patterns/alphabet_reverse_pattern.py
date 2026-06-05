@@ -1,0 +1,4 @@
+print("ALPHABET REVERSE PATTERN")
+
+for i in range(5, 0, -1):
+    print("A" * i)

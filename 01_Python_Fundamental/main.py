@@ -1,0 +1,10 @@
+print("HELLO SOHAN KUMAR ARYAN")
+print("WELCOME TO PYTHON WORLD")
+print("YOU ARE LEARNING PYTHON")
+print("LET'S DIVE IN")
+print("TODAY IS YOUR FIRST DAY OF LEARNING PYTHON FROM SCRACTCH")
+name = input("Enter your name:")
+print("HELLO,",name)
+age = input("Enter your age:")
+print("YOU ARE", age, "years old" )
+

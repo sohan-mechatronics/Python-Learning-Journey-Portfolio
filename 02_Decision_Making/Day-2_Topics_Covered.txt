@@ -1,0 +1,29 @@
+DAY-2 : DECISION MAKING
+
+Topics Covered:
+☑ if Statement
+☑ if-else Statement
+☑ if-elif-else Statement
+☑ Nested Conditions
+☑ Comparison Operators
+☑ Logical Operators
+
+Programs:
+☑ if-else.py
+☑ grade.py
+☑ even_odd.py
+☑ largest_number.py
+☑ smallest_number.py
+☑ number_checker.py
+☑ atm.py
+☑ login_system.py
+☑ password_checker.py
+
+DAY STATUS
+
+☑ Theory Completed
+☑ Programs Completed
+☑ Practice Completed
+☑ Revision Completed
+
+Overall Status: ☑ COMPLETED

@@ -1,0 +1,37 @@
+DAY-3 : WHILE LOOP PROGRAMMING
+
+Topics Covered:
+☑ While Loop
+☑ Counter Variable
+☑ Increment
+☑ Decrement
+☑ Infinite Loop Concept
+☑ Loop Control
+☑ User Controlled Loops
+☑ Summation Programs
+☑ Guessing Game Logic
+☑ Password Retry System
+☑ ATM PIN System
+
+Programs:
+☑ while_demo.py
+☑ while_correct.py
+☑ while_infinite_loop.py
+☑ reverse_count.py
+☑ countdown.py
+☑ sum_1_to_10.py
+☑ sum_user_number.py
+☑ guessing_game.py
+☑ guess_game.py
+☑ password_retry.py
+☑ atm_pin.py
+☑ factorial.py
+
+DAY STATUS
+
+☑ Theory Completed
+☑ Programs Completed
+☑ Practice Completed
+☑ Revision Completed
+
+Overall Status: ☑ COMPLETED

@@ -1,0 +1,60 @@
+DAY-9 : FILE HANDLING & EXCEPTION HANDLING
+
+Topics Covered:
+☑ File Handling Introduction
+☑ Create File
+☑ Write Mode (w)
+☑ Read Mode (r)
+☑ Append Mode (a)
+☑ File Search
+☑ CRUD Concept
+☑ Data Storage in Files
+
+☑ Exception Handling Introduction
+☑ Errors & Exceptions
+☑ try Block
+☑ except Block
+☑ finally Block
+☑ ValueError
+☑ ZeroDivisionError
+☑ Multiple Exceptions
+☑ Error Handling Techniques
+
+☑ Real World Applications
+☑ Student Records
+☑ Employee Database
+☑ Login Systems
+☑ Banking Software
+☑ Data Persistence
+
+Programs:
+☑ file_write_demo.py
+
+☑ file_read_demo.py
+
+☑ file_append_demo.py
+
+☑ file_search_demo.py
+
+☑ personal_info.py
+
+☑ try_except_demo.py
+
+☑ divide_error.py
+
+☑ multiple_exception.py
+
+☑ finally_demo.py
+
+☑ student.txt
+
+☑ sohan_master_profile.txt
+
+DAY STATUS
+
+☑ Theory Completed
+☑ Programs Completed
+☑ Practice Completed
+☑ Revision Completed
+
+Overall Status: ☑ COMPLETED

@@ -1,0 +1,66 @@
+DAY-5 : COLLECTIONS
+
+Topics Covered:
+☑ List
+☑ Tuple
+☑ Dictionary
+☑ Positive Indexing
+☑ Negative Indexing
+☑ List Operations
+☑ Tuple Operations
+☑ Dictionary Operations
+☑ append()
+☑ insert()
+☑ remove()
+☑ pop()
+☑ len()
+☑ sum()
+☑ count()
+☑ index()
+☑ keys()
+☑ values()
+☑ items()
+☑ Loop Through Collections
+☑ Search Operations
+☑ Update Operations
+☑ Delete Operations
+
+Programs:
+☑ list_demo.py
+☑ list_append.py
+☑ list_insert.py
+☑ list_update.py
+☑ list_remove.py
+☑ list_pop.py
+☑ list_index.py
+☑ list_length.py
+☑ list_loop.py
+☑ list_sum.py
+☑ list_count.py
+☑ student_list.py
+
+☑ tuple_demo.py
+☑ tuple_index.py
+☑ tuple_length.py
+☑ tuple_loop.py
+☑ tuple_count.py
+☑ tuple_update_error.py
+☑ tuple_update_error_solved.py
+
+☑ dictionary_demo.py
+☑ dictionary_access.py
+☑ dictionary_add.py
+☑ dictionary_update.py
+☑ dictionary_delete.py
+☑ dictionary_search.py
+☑ dictionary_length.py
+☑ dictionary_loop.py
+
+DAY STATUS
+
+☑ Theory Completed
+☑ Programs Completed
+☑ Practice Completed
+☑ Revision Completed
+
+Overall Status: ☑ COMPLETED

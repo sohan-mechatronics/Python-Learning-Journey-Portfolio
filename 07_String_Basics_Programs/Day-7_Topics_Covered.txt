@@ -1,0 +1,52 @@
+DAY-7 : STRING BASICS
+
+Topics Covered:
+☑ String Introduction
+☑ String Creation
+☑ Character Collection Concept
+☑ String Indexing
+☑ Positive Indexing
+☑ Negative Indexing
+☑ String Length
+☑ Loop Through String
+☑ String Traversal
+☑ String Slicing
+☑ Shortcut Slicing
+☑ Reverse String
+☑ String Methods
+☑ upper()
+☑ lower()
+☑ replace()
+☑ find()
+☑ count()
+
+Programs:
+☑ string_demo.py
+
+☑ string_index.py
+☑ string_negative_index.py
+☑ negative_indexing.py
+
+☑ string_length.py
+
+☑ string_loop.py
+
+☑ slicing_demo.py
+
+☑ reverse_string.py
+
+☑ upper_demo.py
+☑ lower_demo.py
+☑ replace_demo.py
+☑ find_demo.py
+
+☑ string_master_demo.py
+
+DAY STATUS
+
+☑ Theory Completed
+☑ Programs Completed
+☑ Practice Completed
+☑ Revision Completed
+
+Overall Status: ☑ COMPLETED

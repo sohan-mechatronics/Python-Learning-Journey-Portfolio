@@ -1,0 +1,51 @@
+DAY-6 : FUNCTIONS
+
+Topics Covered:
+☑ Function Introduction
+☑ Function Definition
+☑ Function Call
+☑ Reusable Code
+☑ Parameters
+☑ Arguments
+☑ Return Statement
+☑ print() vs return
+☑ User Defined Functions
+☑ Mathematical Functions
+☑ Function-Based Programs
+☑ Code Reusability
+☑ Modular Programming
+
+Programs:
+☑ function_demo.py
+☑ parameter_demo.py
+☑ return_demo.py
+☑ multiple_function_call.py
+
+☑ addition_function.py
+☑ user_addition.py
+☑ calculator_function.py
+
+☑ square_function.py
+☑ area_rectangle.py
+
+☑ even_odd_function.py
+
+☑ largest_function.py
+☑ largest_three_function.py
+
+☑ table_function.py
+
+☑ factorial_function.py
+
+☑ prime_function.py
+
+☑ sum_of_digits_function.py
+
+DAY STATUS
+
+☑ Theory Completed
+☑ Programs Completed
+☑ Practice Completed
+☑ Revision Completed
+
+Overall Status: ☑ COMPLETED

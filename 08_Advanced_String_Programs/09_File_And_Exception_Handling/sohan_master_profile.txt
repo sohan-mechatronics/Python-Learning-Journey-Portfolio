@@ -1,0 +1,30 @@
+========== SOHAN MASTER PROFILE ==========
+
+PERSONAL DETAILS
+Name : Sohan Kumar
+City : Katihar
+
+DIPLOMA EDUCATION
+Branch : Electrical Engineering
+Qualification : Diploma
+
+B.E. EDUCATION
+Branch : Mechatronics Engineering
+College : Chandigarh University
+Location : Gharuan, Mohali
+Status : Pursuing
+
+SKILLS
+Python Programming
+PLC
+HMI
+Industrial Automation
+Robotics
+
+PROJECTS
+Python Programs Collection
+Student Management System
+
+
+Current Semester : 5th
+University : Chandigarh University

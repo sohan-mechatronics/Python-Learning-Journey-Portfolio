@@ -1,0 +1,54 @@
+DAY-8 : ADVANCED STRING PROGRAMS
+
+Topics Covered:
+☑ Reverse String Revision
+☑ Palindrome String
+☑ Vowel Counter
+☑ Character Counter
+☑ Space Counter
+☑ Word Counter
+☑ String Comparison
+☑ Remove Spaces
+☑ Uppercase Letter Counter
+☑ Lowercase Letter Counter
+☑ Character Frequency
+☑ First Character Extraction
+☑ Last Character Extraction
+☑ String Analysis Programs
+☑ String Processing Logic
+
+Programs:
+☑ reverse_string.py
+
+☑ palindrome_string.py
+
+☑ vowel_counter.py
+
+☑ character_counter.py
+
+☑ space_counter.py
+
+☑ word_counter.py
+
+☑ string_comparison.py
+
+☑ remove_spaces.py
+
+☑ uppercase_counter.py
+
+☑ lowercase_counter.py
+
+☑ character_frequency.py
+
+☑ first_character.py
+
+☑ last_character.py
+
+DAY STATUS
+
+☑ Theory Completed
+☑ Programs Completed
+☑ Practice Completed
+☑ Revision Completed
+
+Overall Status: ☑ COMPLETED

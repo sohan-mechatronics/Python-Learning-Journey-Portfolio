@@ -1,0 +1,83 @@
+DAY-11 : PYTHON MODULES & MATH MODULE
+
+Topics Covered:
+☑ Module Introduction
+☑ Built-in Modules
+☑ Math Module
+☑ import Statement
+☑ Module Loading
+☑ Alias Import
+☑ import math as m
+☑ Specific Function Import
+☑ from math import sqrt
+☑ Multiple Function Import
+☑ from math import sqrt, factorial
+
+☑ Square Root
+☑ math.sqrt()
+
+☑ Power Calculation
+☑ math.pow()
+
+☑ Factorial
+☑ math.factorial()
+
+☑ Ceiling Function
+☑ math.ceil()
+
+☑ Floor Function
+☑ math.floor()
+
+☑ PI Constant
+☑ math.pi
+
+☑ Circle Circumference Calculation
+☑ Mathematical Computations
+☑ Engineering Calculations
+
+☑ Scientific Calculator Project
+
+☑ Real World Applications
+☑ Robotics Calculations
+☑ Engineering Formulas
+☑ Automation Calculations
+☑ Data Science Mathematics
+☑ Scientific Computing
+
+Programs:
+☑ import_demo.py
+
+☑ alias_demo.py
+
+☑ specific_import_demo.py
+
+☑ direct_import_demo.py
+
+☑ multi_import_demo.py
+
+☑ multiple_function_import.py
+
+☑ sqrt_demo.py
+
+☑ power_demo.py
+
+☑ factorial_demo.py
+
+☑ ceil_demo.py
+
+☑ floor_demo.py
+
+☑ circle_area.py
+
+☑ circle_circumference.py
+
+☑ scientific_calculator.py
+
+DAY STATUS
+
+☑ Theory Completed
+☑ Programs Completed
+☑ Practice Completed
+☑ Revision Completed
+
+Overall Status: ☑ COMPLETED
