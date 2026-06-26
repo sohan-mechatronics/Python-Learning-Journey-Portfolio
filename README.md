@@ -218,4 +218,47 @@ Suggestions and improvements are always welcome.
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="center">
+<b>📲 Scan any QR code to explore my work and connect with me.</b>
+</p>
+
+<table align="center">
+<tr>
+
+<td align="center">
+<a href="https://github.com/sohan-mechatronics">
+<img src="assets/github-qr.png" width="150" alt="GitHub QR"><br>
+<b>GitHub</b>
+</a>
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/sohan-kumar-eng">
+<img src="assets/linkedin-qr.png" width="150" alt="LinkedIn QR"><br>
+<b>LinkedIn</b>
+</a>
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+<a href="https://sohan-mechatronics.github.io/Sohan-Mechatronics-Portfolio/">
+<img src="assets/portfolio-qr.png" width="150" alt="Portfolio QR"><br>
+<b>Portfolio</b>
+</a>
+</td>
+
+</tr>
+</table>
+
+---
+
+⭐ **If you find this project useful, please consider giving it a ⭐ Star.**
+
+Made with ❤️ by **Sohan Kumar**
+
 ⭐ If you found this repository useful, consider giving it a star.
