@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Python Learning Journey Banner" width="100%">
+</p>
+
+---
 # 🐍 Python Learning Journey
 
 A comprehensive repository documenting my Python learning journey from programming fundamentals to data analysis and visualization.
