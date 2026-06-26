@@ -260,5 +260,3 @@ Suggestions and improvements are always welcome.
 ⭐ **If you find this project useful, please consider giving it a ⭐ Star.**
 
 Made with ❤️ by **Sohan Kumar**
-
-⭐ If you found this repository useful, consider giving it a star.
